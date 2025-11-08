@@ -1,8 +1,5 @@
 
-#Name: Ayokunmi, Sodamola
-#Course: MIS 5301 – Semester Year 
-#Purpose: Sales Forcating
-#File: MIS5301-PE3-Victorino Consultants.py
+#Purpose: Sales Forcasting
 import datetime
 
 #---Application Header --------------------------------------------
